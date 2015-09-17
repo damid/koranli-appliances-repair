@@ -38,5 +38,5 @@ Folders src and lib contain all the files needed to build and create a jar file.
 
 Usage
 ====
-The Depository dependecies and licenses used are described in file Depository-Dependencies-LicensesUsed.txt
+The Depository dependecies and licenses used are described in file [Depository-Dependencies-LicensesUsed.txt](https://github.com/isl/Depository/blob/master/Depository-Dependencies-LicensesUsed.txt)
 
