@@ -34,7 +34,7 @@ Depository is a Java API used by [FIMS](https://github.com/isl/FIMS) to upload/d
 
 Build - Run
 ====
-Folders src and lib contain all the files needed to build and create a jar file.
+Folders src contain all the files needed to build and create a jar file. This project is a Maven project, providing all the libs in pom.xml.
 
 Usage
 ====
